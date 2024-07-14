@@ -1,0 +1,35 @@
+
+
+body{background:whitesmoke;
+	padding-left: 200px; 
+	}
+
+
+h1{
+	color: red;
+}
+p{
+	color: black;
+}
+
+ol{
+	display: inline;
+	color: black;
+	margin-bottom: 50px;
+}
+ol li{margin-left: 100px;
+	
+}
+.menu{
+	display: inline;
+	color: white;
+	background: blue;
+	width: 300 px;
+	height: 200 px;
+}
+button{
+	padding: 10px;
+	font-family: ;
+	font-size: 15px;
+	margin: 50px;
+}
